@@ -3,8 +3,8 @@ This is a tool which asks for a Key (Not known to us) , and have to be reverse e
 It's a beginner level reversing practise.
 
 # Details about the Tool
-This is created in CSharp Language.
-Tool used : dnSpy 32-bit
+- This is created in CSharp Language.
+- Tool used : dnSpy 32-bit
 
 # Reverser
 Reversed by : Github | amitray007
